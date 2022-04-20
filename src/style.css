@@ -1,0 +1,12 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.appContainer {
+  font-size: 14px;
+  font-weight: bold;
+  margin: auto;
+  display: block;
+  text-align: center;
+}
